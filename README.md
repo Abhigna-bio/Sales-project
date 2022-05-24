@@ -20,3 +20,4 @@ PROJECT GOAL:
 <br>1. Data exploration insights – Sales effectiveness.
 <br>2. ML model to predict the Lead Category (High Potential , Low Potential)
 
+## How to run
