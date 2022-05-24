@@ -1,5 +1,5 @@
 # Sales-project
-This is a great readme in my local 
+This is a a readme
 
 ### Problem statement
 FicZon Inc is an IT solution provider with products ranging from on premises products to SAAS based solutions. FicZon major leads 
